@@ -76,7 +76,7 @@ You can use Git with the command line, but there are also GUI clients if you pre
 
 - [Github Desktop](https://desktop.github.com/) (Free, Windows+Mac)
 - [SourceTree](https://www.sourcetreeapp.com/) (Free, Windows+Mac)
-- [GitKraken](https://www.gitkraken.com/) (Free, Windows+Mac+Linux)
+- [GitKraken](https://www.gitkraken.com/git-client) (Free, Windows+Mac+Linux)
 
 In addition to that, most IDEs have a Git plugin already installed (eg. Eclipse, IntelliJ, Visual Studio).
 
